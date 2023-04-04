@@ -1,0 +1,4 @@
+#!/bin/bash 
+mv [[:upper:]]* /tmp/u 
+✍️If we want lowercase 
+[[:lower:]]* 
